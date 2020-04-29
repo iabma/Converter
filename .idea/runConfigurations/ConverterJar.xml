@@ -1,0 +1,13 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ConverterJar" type="JarApplication">
+    <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/Converter_jar/Converter.jar" />
+    <option name="VM_PARAMETERS" value="--module-path &quot;$PATH_TO_FX$&quot; --add-modules javafx.controls,javafx.fxml" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <method v="2">
+      <option name="BuildArtifacts" enabled="true">
+        <artifact name="Converter:jar" />
+      </option>
+    </method>
+  </configuration>
+</component>
